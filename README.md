@@ -4,8 +4,9 @@ Quadcopter juggling ball using Reinforcement Learning
 to start, replace the hector_quadrotor_description folder with the one in the repository. 
 quadrotor_base1.dae in the meshes folder has the 3D construct of the quadrotor hector with the platform. Replace the path for the .dae file of quadrotor_base to quadrotor_base1 in the quadrotor_base.urdf.xacro file in urdf folder.
 
+
 ![Hector quadrotor with platform on rviz](https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/hector_platform.png)
-![Hector quadrotor with platform on Gazebo](https://github.com/tanishkasingh9/quadrotorjuggling/hector_platform_gazebo.png)
+![Hector quadrotor with platform on Gazebo](https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/hector_platform_gazebo.png)
 
 
 
