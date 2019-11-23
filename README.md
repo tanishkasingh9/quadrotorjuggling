@@ -14,6 +14,6 @@ quadrotor_base1.dae in the meshes folder has the 3D construct of the quadrotor h
 1. learning how to fly.
 2. Simulate a ball in Gazebo
 3. Perform Q-Learning and SARSA to maximize bounces on the platform.
-4. DO we need more sensors?
+
 
 
