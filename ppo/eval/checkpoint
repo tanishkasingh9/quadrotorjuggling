@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tanishka/quad_juggling/V-REP_PRO_EDU_V3_6_1_Ubuntu16_04/Quadcopter_bouncing_Ball-master/src/sim/ppo/ProximalPolicy.ckpt"
+all_model_checkpoint_paths: "/home/tanishka/quad_juggling/V-REP_PRO_EDU_V3_6_1_Ubuntu16_04/Quadcopter_bouncing_Ball-master/src/sim/ppo/ProximalPolicy.ckpt"

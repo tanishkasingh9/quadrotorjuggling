@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cse571/Downloads/AI_Project/spg/simple_pg.ckpt"
+all_model_checkpoint_paths: "/home/cse571/Downloads/AI_Project/spg/simple_pg.ckpt"
