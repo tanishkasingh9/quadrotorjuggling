@@ -1,6 +1,11 @@
 # Quadrotor Juggling
 Keeping a ball in the air by bouncing it off a quadcopter for as many times as possible. We wanted to explore reinforcement learning algorithms.
 
+## Algorithms in action 
+|      SARSA      |         VPG       |       PPO        |
+| :---------------| :---------------: | ---------------: |
+|  <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/sarsa.gif"> | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/vpg.gif">  | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/ppo.gif">|
+
 ### Team Members for this project
 - Tanishka Singh (tsingh22@asu.edu)
 - Deepak Kala Vasudevan (dkalavas@asu.edu)
@@ -44,10 +49,6 @@ A class of reinforcement learning techniques that rely upon optimizing paramet
 - Vanilla Policy Gradient (VPG)
 - Proximal Policy Optimization (PPO)
 
-## Algorithms in action 
-|      SARSA      |         VPG       |       PPO        |
-| :---------------| :---------------: | ---------------: |
-|  <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/sarsa.gif"> | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/vpg.gif">  | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/ppo.gif">|
 
 
 
