@@ -37,22 +37,18 @@ $ python main.py [algorithm] [action] [number of episodes] [steps per episode]
 
 - zz_GraveYard.zip contains code that we worked on initially and later abandoned as we could not resolve issues. (uses ros, gazebo, sphinx)
 
-## Policy Gradient Methods Used 
-- Simple Policy Gradient 
-- Vanilla Policy Gradient
-- Proximal Policy Optimization 
+## Policy Gradient Methods
+A class of reinforcement learning techniques that rely upon optimizing parametrized policies with respect to the expected return (long-term cumulative reward) by gradient descent. The actor directly learns the policy function that map states to actions
 
+- Simple Policy Gradient (SARSA)
+- Vanilla Policy Gradient (VPG)
+- Proximal Policy Optimization (PPO)
 
+## Algorithms in action 
+|      SARSA      |         VPG       |       PPO        |
+| :---------------| :---------------: | ---------------: |
+|  <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/sarsa.gif"> | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/vpg.gif">  | <img src="https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/demo/ppo.gif">|
 
-![Hector quadrotor with platform on rviz](https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/hector_platform.png)
-![Hector quadrotor with platform on Gazebo](https://raw.githubusercontent.com/tanishkasingh9/quadrotorjuggling/master/hector_platform_gazebo.png)
-
-
-
-*COMING SOON*
-1. learning how to fly.
-2. Simulate a ball in Gazebo
-3. Perform Q-Learning and SARSA to maximize bounces on the platform.
 
 
 
